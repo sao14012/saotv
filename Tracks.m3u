@@ -12,3 +12,11 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS ", TODO NOTICIAS  
 https://youtu.be/wHn1_QVoXGM
+
+
+#EXTINF:-1 ,CANAL 13 | alta definición
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+#EXTINF:-1 ,CANAL 7 | alta definición
+http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
+#EXTINF:-1 ,CANAL 9 | alta definición
+http://edge1.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/Canal9.m3u8
