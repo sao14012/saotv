@@ -413,6 +413,12 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165600.m3u8
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165602.m3u8
 
 
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM FHD.
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183616.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM SD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183613.m3u8
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ARG: ESPN PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA",ARG: ESPN PREMIUM HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/183614.m3u8
 
 
 
